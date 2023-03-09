@@ -6,4 +6,5 @@ _newjihwan_check_start
 12546
 12553
 13716
+13679
 _newjihwan_check_finish
